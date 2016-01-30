@@ -1,4 +1,56 @@
 _site
 node_modules
 Gemfile.lock
+
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Icon must ends with two \r.
+Icon
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Ignore docs files
+_gh_pages
+.ruby-version
+.sass-cache
+# Uncomment for Netlify 
+#_site
+
+# My stuff
+dk_data.txt
+
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
 .DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+.AppleDouble
+.LSOverride
+
