@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Dan Koopman
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: info@conviveo.co.uk
+copyright_name: Conviveo Ltd
+description: "Continuous Improvements, Cloud, Costs and General Technology"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+url: "http://www.conviveo.co.uk"
+twitter_username: Conviveo
+github_username:  conviveo
+# facebook_username:  IronSummitMedia
+email_username:  info@conviveo.co.uk
 
 # Build settings
 markdown: kramdown

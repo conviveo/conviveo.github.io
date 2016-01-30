@@ -1,12 +1,12 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "Conviveo-blog",
+    "title": "Conviveo Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "homepage": "http://www.conviveo.co.uk",
+    "author": "D Koopman",
     "license": {
         "type": "Apache 2.0",
-        "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
+        "url": "/LICENSE"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
